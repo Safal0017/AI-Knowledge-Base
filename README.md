@@ -1,74 +1,51 @@
 # AI-Knowledge-Base
 AI Engineering Knowledge Base
 
-Aim
+# Aim
 
 Exploring ML Systems Engineering and Inference Engineering through structured learning
 
 Learning Philosophy
 
 Learn
-
 ↓
-
 Document
-
 ↓
-
 Revise
-
 ↓
-
 Apply
-
 ↓
-
 Repeat
 
-Domains
+# Repository Structure
 
-✓ Mathematics
-
-✓ Machine Learning
-
-✓ Deep Learning
-
-✓ LLMs
-
-✓ Agentic AI
-
-✓ ML Systems
-
-✓ Distributed AI
-
-✓ MLOps
-
-✓ Computer Science
-
-Repository Structure
-
-...
-
-Progress Tracker
-
-Mathematics
-
-✅ Foundations
-
-⬜ Linear Algebra
-
-⬜ Calculus
-
-⬜ Probability
-
-⬜ Optimization
-
-Machine Learning
-
-⬜ Fundamentals
-
-⬜ Regression
-
-⬜ Classification
+AI-Knowledge-Base/
+│
+├── README.md
+├── ROADMAP.md
+├── LEARNING_LOG.md
+├── resources.md
+│
+├── 01-Mathematics/
+│
+├── 02-Machine-Learning/
+│
+├── 03-Deep-Learning/
+│
+├── 04-LLMs/
+│
+├── 05-Agentic-AI/
+│
+├── 06-ML-Systems/
+│
+├── 07-Distributed-AI/
+│
+├── 08-MLOps/
+│
+├── 09-Computer-Science/
+│
+├── 10-Projects/
+│
+└── assets/
 
 ...
