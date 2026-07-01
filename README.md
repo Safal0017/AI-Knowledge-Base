@@ -19,7 +19,7 @@ Repeat
 
 # Repository Structure
 
-AI-Knowledge-Base/
+AI-Knowledge-Base/  
 │  
 ├── README.md      
 ├── ROADMAP.md    
