@@ -23,14 +23,14 @@ Subjects
 
 Learning Strategy
 
-Concept
-↓
-Example
-↓
-ML Mapping
-↓
-Documentation
-↓
-Revision
-↓
-Deep Dive
+Concept  
+↓  
+Example  
+↓  
+ML Mapping  
+↓  
+Documentation  
+↓  
+Revision  
+↓  
+Deep Dive  
